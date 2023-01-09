@@ -1,3 +1,9 @@
 {
-  "java.debug.settings.onBuildFailureProceed": true
+  "java.debug.settings.onBuildFailureProceed": true,
+  "java.project.sourcePaths": [
+    "SintaxeJava/anatomiaJava/src/terminal.argumentos/ta5",
+    "SintaxeJava/anatomiaJava/src/terminal.argumentos/ta3",
+    "SintaxeJava/anatomiaJava/src/terminal.argumentos/ta2",
+    "LógicaCondicional"
+  ]
 }
